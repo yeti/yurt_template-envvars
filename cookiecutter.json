@@ -2,7 +2,7 @@
   "environment": "dev",
   "django_debug": "false",
   "secret_key": "secretkey",
-  "allowed_hosts": "[\"0.0.0.0\"]",
+  "allowed_hosts": "0.0.0.0",
   "postgres_user": "test",
   "postgres_password": "test",
   "database_host": "db",
