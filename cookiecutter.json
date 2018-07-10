@@ -1,6 +1,6 @@
 {
   "environment": "dev",
-  "django_debug": "false",
+  "django_debug": "true",
   "secret_key": "secretkey",
   "allowed_hosts": "0.0.0.0",
   "postgres_user": "test",
